@@ -1,0 +1,45 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #808080;
+	color: white;
+    background-image: linear-gradient(to bottom right, #FF1493, pink);
+}
+
+h1 {
+	font-size: 3em;
+	font-family: Original Surfer;
+}
+
+
+h3, tr, td, label {
+	font-family: Original Surfer;
+	color: #fff;
+}
+
+h3 {
+	color: black;
+}
+
+
+
+.jumbotron {
+	background-color: #FF69B4;
+	color: #000;
+	text-shadow: 2px 2px #fff;
+}
+
+
+
+.panel-heading {
+	background-color: blue;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #ddd;
+    color: black;
+
+}
